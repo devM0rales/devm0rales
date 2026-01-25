@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Lucas from Brasília, Brazil. <br><br>- 🔭 I’m not working in the moment.<br>- 📚 I'm currently learning python.<br>- ⚡ In my free time I play basketball</p>
+<p align="left">I'm Lucas from Brasília, Brazil. <br><br>- 🔭 I’m working in the moment but not like coder.<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I play basketball</p>
 
 ###
 

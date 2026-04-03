@@ -1,9 +1,26 @@
-<h2 align="left">Hey There! 🖖 My name is Lucas and I'm a Java developer from Brazil</h2>
+<h2 align="left">Hello, Devs! 🖖</h2>
 
+###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome!%F0%9F%95%B8%EF%B8%8F&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/7nu7O0Gq-BgAAAAM/miles-morales-shameik-moore.gif"  />
+</div>
+
+###
+
+<p align="left">- My name is Lucas. 👋<br>- I' m working now, but no like a coder. 💼<br>- I'm looking for a job as a coder. 💻</p>
+
+###
+
+<h2 align="left">Laguange and Tools</h2>
 
 ###
 
@@ -18,6 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
 </div>
+
+###
+
+<h2 align="left">Contact me</h2>
 
 ###
 

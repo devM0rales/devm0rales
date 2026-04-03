@@ -1,10 +1,5 @@
 <h2 align="left">Hey There! 🖖 My name is Lucas and I'm a Java developer from Brazil</h2>
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/7nu7O0Gq-BgAAAAM/miles-morales-shameik-moore.gif"  />
-
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome!%F0%9F%95%B8%EF%B8%8F&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
